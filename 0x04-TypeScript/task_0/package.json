@@ -1,4 +1,4 @@
-echo '{
+{
   "name": "typescript_dependencies",
   "version": "1.0.0",
   "description": "",
@@ -29,4 +29,4 @@ echo '{
     "webpack-cli": "^3.3.9",
     "webpack-dev-server": "^3.8.2"
   }
-}' > /root/frontend-javascript/0x04-TypeScript/task_0/package.json
+}
